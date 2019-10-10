@@ -11,7 +11,7 @@
      </li>
      <li>
        <img src="../../assets/download.png" alt="">
-       <span>新闻111111111</span>
+       <span>新闻1</span>
      </li>
      <li>
        <img src="../../assets/me.png" alt="">
