@@ -3,19 +3,19 @@
    <ul class="footer-ul">
      <li>
        <img src="../../assets/home.png" alt="">
-       <span>首页</span>
+       <span>首页.</span>
      </li>
      <li>
        <img src="../../assets/sea.png" alt="">
-       <span>视频</span>
+       <span>视频.</span>
      </li>
      <li>
        <img src="../../assets/download.png" alt="">
-       <span>新闻</span>
+       <span>新闻.</span>
      </li>
      <li>
        <img src="../../assets/me.png" alt="">
-       <span>个人中心</span>
+       <span>个人中心.</span>
      </li>
    </ul>
   </div>
